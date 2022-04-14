@@ -3,7 +3,6 @@
 
 /**
  * main - short description here
- *
  * Description: long description here
  *
  * Return: explain what happens on return here
