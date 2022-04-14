@@ -2,12 +2,12 @@
 #include "main.h"
 
 /**
- *  * main - short description here
- *   *
- *    * Description: long description here
- *     *
- *      * Return: explain what happens on return here
- *       */
+ * main - short description here
+ *
+ * Description: long description here
+ *
+ * Return: explain what happens on return here
+ */
 
 int main(void)
 {
